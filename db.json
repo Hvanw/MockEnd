@@ -1,31 +1,16 @@
 {
-  "posts": [
+  "user": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": "NQcrTm0GCiPaE8NS",
+      "name": "Đạt Quân"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "id": "4d6YzpsTTXar8WEC",
+      "name": "Loan Hào"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "id": "OG4nLzFnJnAotq44",
+      "name": "Quyền Huệ"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
