@@ -12,35 +12,7 @@
     "Q2urix1aFmabZfe0",
     "LzKMpPuwki3kHiaz",
     "gyorbmJVkWclSJU8"
-   ],
-  },
-  "NickName" : {
-   "string" : [
-    "Đạt Quân",
-    "Loan Hào",
-    "Quyền Huệ",
-    "Xuân Thảo",
-    "Cam Hương",
-    "Phượng Công",
-    "Anh Liên",
-    "Huệ Hoa",
-    "Hường Trí",
-    "Tuyến Dương"
-   ],
-  },
-  "AvatarPath" : {
-   "string" : [
-    "https://i.pravatar.cc/",
-    "https://i.pravatar.cc/",
-    "https://i.pravatar.cc/",
-    "https://i.pravatar.cc/",
-    "https://i.pravatar.cc/",
-    "https://i.pravatar.cc/",
-    "https://i.pravatar.cc/",
-    "https://i.pravatar.cc/",
-    "https://i.pravatar.cc/",
-    "https://i.pravatar.cc/"
-   ],
-  },
- },
+   ]
+  }
+ }
 }
