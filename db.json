@@ -1,9 +1,46 @@
 {
  "User" : {
-  "string": [
-   "cs50QuH7M8rJcMpM",
-   "DCshaur8IK1t30lJ",
-   "Maa1fYkCerRSD2MQ"
-  ]
+  "UserId" : {
+   "string" : [
+    "NQcrTm0GCiPaE8NS",
+    "4d6YzpsTTXar8WEC",
+    "OG4nLzFnJnAotq44",
+    "R8rimwGE4YlPSbqU",
+    "PrD4nHrhLI5BRvEr",
+    "nZMEkR8nW2Zx50Ca",
+    "iv2JgMhrdGo15TRp",
+    "Q2urix1aFmabZfe0",
+    "LzKMpPuwki3kHiaz",
+    "gyorbmJVkWclSJU8"
+   ]
+  },
+  "NickName" : {
+   "string" : [
+    "Đạt Quân",
+    "Loan Hào",
+    "Quyền Huệ",
+    "Xuân Thảo",
+    "Cam Hương",
+    "Phượng Công",
+    "Anh Liên",
+    "Huệ Hoa",
+    "Hường Trí",
+    "Tuyến Dương",
+   ]
+  },
+  "AvatarPath" : {
+   "string" : [
+    "https://i.pravatar.cc/",
+    "https://i.pravatar.cc/",
+    "https://i.pravatar.cc/",
+    "https://i.pravatar.cc/",
+    "https://i.pravatar.cc/",
+    "https://i.pravatar.cc/",
+    "https://i.pravatar.cc/",
+    "https://i.pravatar.cc/",
+    "https://i.pravatar.cc/",
+    "https://i.pravatar.cc/"
+   ]
+  }
  }
 }
