@@ -51,16 +51,66 @@
       "avatar": "https://i.pravatar.cc/"
     }
   ],
-  "comments": [
+  "posts": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": "3V2On7q467vwV3Uu",
+      "userId": "LzKMpPuwki3kHiaz",
+      "caption": "How to speak better English?",
+      "photo": "https://cdn.pixabay.com/photo/2014/12/15/17/17/scuba-diver-569333_960_720.jpg"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": "dpqUcwSfdHxK25FX",
+      "userId": "gyorbmJVkWclSJU8",
+      "caption": "Damn",
+      "photo": "https://cdn.pixabay.com/photo/2018/11/23/14/19/forest-3833973_960_720.jpg"
+    },
+    {
+      "id": "6g60yXYvbbreZy1m",
+      "userId": "gyorbmJVkWclSJU8",
+      "caption": "Start Your 2021With the Best 20 Python Online Courses For Beginners To Expert",
+      "photo": "https://cdn.pixabay.com/photo/2012/09/15/02/22/forest-56930_960_720.jpg"
+    },
+    {
+      "id": "hRzVj8TPg5HlXvmc",
+      "userId": "LzKMpPuwki3kHiaz",
+      "caption": "Keep following @ronasit_ui and stay hip! Tag us and you may get free features!",
+      "photo": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_960_720.jpg"
+    },
+    {
+      "id": "8TAbte4fO7nyy9EC",
+      "userId": "NQcrTm0GCiPaE8NS",
+      "caption": "membuka hari dengan yang seger seger , semoga lancar hari ini ngab",
+      "photo": "https://cdn.pixabay.com/photo/2013/07/21/13/00/rose-165819_960_720.jpg"
+    },
+    {
+      "id": "lx4YLO9Cv9EFFQy5",
+      "userId": "4d6YzpsTTXar8WEC",
+      "caption": "What do you think about our vision?",
+      "photo": "https://cdn.pixabay.com/photo/2014/04/10/11/24/rose-320868_960_720.jpg"
+    },
+    {
+      "id": "BOQq7790BUM4Hmu1",
+      "userId": "nZMEkR8nW2Zx50Ca",
+      "caption": "Data Science is the Best Career Choice Right",
+      "photo": "https://cdn.pixabay.com/photo/2017/10/25/16/54/african-lion-2888519_960_720.jpg"
+    },
+    {
+      "id": "S54pgQnWslQM0W2P",
+      "userId": "Q2urix1aFmabZfe0",
+      "caption": "What do you think?",
+      "photo": "https://cdn.pixabay.com/photo/2016/12/05/11/39/fox-1883658_960_720.jpg"
+    },
+    {
+      "id": "hOVzTglP77lCiHBe",
+      "userId": "R8rimwGE4YlPSbqU",
+      "caption": "Have an awesome project?",
+      "photo": "https://cdn.pixabay.com/photo/2016/01/08/11/57/butterflies-1127666_960_720.jpg"
+    },
+    {
+      "id": "eawTbrSzEUjXBCso",
+      "userId": "NQcrTm0GCiPaE8NS",
+      "caption": "Have you ever considered rebranding your page, logo or business?",
+      "photo": "https://cdn.pixabay.com/photo/2016/07/11/15/43/woman-1509956_960_720.jpg"
     }
   ]
 }
